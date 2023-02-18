@@ -1,4 +1,4 @@
-theme : minima
+<!DOCTYPE html>
 <html>
 <head>
 	<title>My Resume</title>
@@ -7,32 +7,59 @@ theme : minima
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
+			background-color: #f2f2f2;
+			color: #333;
+			font-size: 16px;
+			line-height: 1.5;
 		}
 		header {
-			background-color: #333;
+			background-color: #222;
 			color: #fff;
-			text-align: center;
-			padding: 10px;
+			padding: 20px;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			border-bottom: 3px solid #0077be;
+			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
 		}
 		img {
-			max-width: 100px;
-			height: 40px;
-			margin-right: 5px;
+			max-width: 100%;
+			height: auto;
+			margin-right: 20px;
+			border-radius: 50%;
+			border: 5px solid #fff;
+			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+		}
+		h1 {
+			margin: 0;
+			font-size: 36px;
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+		h2 {
+			font-size: 24px;
+			font-weight: 700;
+			text-transform: uppercase;
+			color: #0077be;
+			margin-top: 40px;
+			margin-bottom: 10px;
+		}
+		p {
+			margin: 0;
+			margin-bottom: 20px;
 		}
 		section {
 			padding: 20px;
 			margin: 20px;
-			background-color: #f1f1f1;
-		}
-		h2 {
-			margin-top: 0;
+			background-color: #fff;
+			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
 		}
 	</style>
 </head>
 <body>
 	<header>
-		<h1>Yash Dugar</h1>
 		<img src="https://www.cmu.edu/mcs/grad/programs/ms-data-analytics/imgs/2023-msdas-class-photos/dugar-yash.jpg" alt="My Picture">
+		<h1>My Name</h1>
 	</header>
 
 	<section>
