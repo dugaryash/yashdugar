@@ -3,18 +3,41 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Personal Website</title>
+  <style>
+    /* Style for the navigation bar */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #333;
+      color: white;
+      padding: 20px;
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+      margin: 0;
+      padding: 0;
+    }
+    nav li {
+      margin-right: 20px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <h1>Welcome to My Personal Website</h1>
-    <nav>
-      <ul>
-        <li><a href="#about-me">About Me</a></li>
-        <li><a href="#my-projects">My Projects</a></li>
-        <li><a href="#contact-me">Contact Me</a></li>
-      </ul>
-    </nav>
-  </header>
+  <nav>
+    <h1>My Personal Website</h1>
+    <ul>
+      <li><a href="#about-me">About Me</a></li>
+      <li><a href="#my-projects">My Projects</a></li>
+      <li><a href="#contact-me">Contact Me</a></li>
+    </ul>
+  </nav>
   
   <main>
     <section id="about-me">
