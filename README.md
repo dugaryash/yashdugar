@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Resume</title>
+	<title>Yash Dugar</title>
 	<style>
 		/* Add some basic styles to improve the look of the page */
 		body {
@@ -23,8 +23,8 @@
 			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
 		}
 		img {
-			max-width: 100%;
-			height: auto;
+			max-width: 180px;
+			height: 220px;
 			margin-right: 20px;
 			border-radius: 50%;
 			border: 5px solid #fff;
