@@ -48,7 +48,7 @@
     <section id="my-projects">
       <h2>My Projects</h2>
       <ul>
-        <li><a href="https://www.stat.cmu.edu/capstoneresearch/600files/poster1.pdf">Procedural Evaluation-based Hospital Rating Prediction: A Data-driven Approach/a></li>
+        <li><a href="https://www.stat.cmu.edu/capstoneresearch/600files/poster1.pdf"> Procedural Evaluation-based Hospital Rating Prediction: A Data-driven Approach </a></li>
         <li><a href="#">Project 2</a></li>
         <li><a href="#">Project 3</a></li>
       </ul>
