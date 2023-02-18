@@ -15,7 +15,7 @@
 		}
 		img {
 			max-width: 100%;
-			height: auto;
+			height: 20px;
 			margin-right: 20px;
 		}
 		section {
