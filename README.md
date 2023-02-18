@@ -14,7 +14,7 @@
 			padding: 10px;
 		}
 		img {
-			max-width: 100%;
+			max-width: 20px;
 			height: 20px;
 			margin-right: 20px;
 		}
