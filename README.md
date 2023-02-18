@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>My Resume</title>
@@ -31,7 +30,7 @@
 <body>
 	<header>
 		<h1>My Name</h1>
-		<img src="https://www.example.com/my-picture.jpg" alt="My Picture">
+		<img src="https://www.cmu.edu/mcs/grad/programs/ms-data-analytics/imgs/2023-msdas-class-photos/dugar-yash.jpg" alt="My Picture">
 	</header>
 
 	<section>
