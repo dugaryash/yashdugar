@@ -63,9 +63,9 @@
    <footer>
     <div>
       <p>Connect with me:</p>
-      <a href="https://www.instagram.com/_yash_dugar"><img src="Instagram_logo.png" width = "30" height= "30"></a>
-      <a href="https://www.linkedin.com/in/yash-dugar/"><img src="LinkedIn_logo.png" width = "30" height= "30"></a>
-      <a href="https://github.com/dugaryash"><img src="Github_logo.png" width = "30" height= "30"></a>
+      <a href="https://www.instagram.com/_yash_dugar"><img src="Instagram_logo.png" width = "30" height= "30"></a> <h1>        </h1>
+      <a href="https://www.linkedin.com/in/yash-dugar/"><img src="LinkedIn_logo.png" width = "30" height= "30"></a> <h1>        </h1>
+      <a href="https://github.com/dugaryash"><img src="Github_logo.png" width = "80" height= "30"></a> <h1>        </h1>
     </div>
     <p>&copy; 2023</p>
   </footer>
