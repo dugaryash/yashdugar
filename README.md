@@ -59,7 +59,7 @@
 <body>
 	<header>
 		<img src="https://www.cmu.edu/mcs/grad/programs/ms-data-analytics/imgs/2023-msdas-class-photos/dugar-yash.jpg" alt="My Picture">
-		<h1>My Name</h1>
+		<h1>Yash Dugar</h1>
 	</header>
 
 	<section>
@@ -69,7 +69,8 @@
 
 	<section>
 		<h2>Work Experience</h2>
-		<p>Fill in details about your work experience here.</p>
+		<p>ZS Associates</p>
+
 	</section>
 
 	<section>
