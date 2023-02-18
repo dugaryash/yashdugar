@@ -1,91 +1,52 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>Yash Dugar</title>
-	<style>
-		/* Add some basic styles to improve the look of the page */
-		body {
-			font-family: Arial, sans-serif;
-			margin: 0;
-			background-color: #f2f2f2;
-			color: #333;
-			font-size: 16px;
-			line-height: 1.5;
-		}
-		header {
-			background-color: #222;
-			color: #fff;
-			padding: 20px;
-			display: flex;
-			align-items: center;
-			justify-content: space-between;
-			border-bottom: 3px solid #0077be;
-			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-		}
-		img {
-			max-width: 180px;
-			height: 220px;
-			margin-right: 20px;
-			border-radius: 50%;
-			border: 5px solid #fff;
-			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
-		}
-		h1 {
-			margin: 0;
-			font-size: 36px;
-			font-weight: 700;
-			text-transform: uppercase;
-		}
-		h2 {
-			font-size: 24px;
-			font-weight: 700;
-			text-transform: uppercase;
-			color: #0077be;
-			margin-top: 40px;
-			margin-bottom: 10px;
-		}
-		p {
-			margin: 0;
-			margin-bottom: 20px;
-		}
-		section {
-			padding: 20px;
-			margin: 20px;
-			background-color: #fff;
-			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
-		}
-	</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Personal Website</title>
 </head>
 <body>
-	<header>
-		<img src="https://www.cmu.edu/mcs/grad/programs/ms-data-analytics/imgs/2023-msdas-class-photos/dugar-yash.jpg" alt="My Picture">
-		<h1>Yash Dugar</h1>
-	</header>
-
-	<section>
-		<h2>Education</h2>
-		<p>Fill in details about your education here.</p>
-	</section>
-
-	<section>
-		<h2>Work Experience</h2>
-		<p>ZS Associates</p>
-
-	</section>
-
-	<section>
-		<h2>Skills</h2>
-		<p>Fill in details about your skills here.</p>
-	</section>
-
-	<section>
-		<h2>Leadership</h2>
-		<p>Fill in details about your leadership experience here.</p>
-	</section>
-
-	<section>
-		<h2>Extracurricular Activities</h2>
-		<p>Fill in details about your extracurricular activities here.</p>
-	</section>
+  <header>
+    <h1>Welcome to My Personal Website</h1>
+    <nav>
+      <ul>
+        <li><a href="#about-me">About Me</a></li>
+        <li><a href="#my-projects">My Projects</a></li>
+        <li><a href="#contact-me">Contact Me</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="about-me">
+      <h2>About Me</h2>
+      <p>Insert your personal introduction here.</p>
+    </section>
+    
+    <section id="my-projects">
+      <h2>My Projects</h2>
+      <ul>
+        <li><a href="#">Project 1</a></li>
+        <li><a href="#">Project 2</a></li>
+        <li><a href="#">Project 3</a></li>
+      </ul>
+    </section>
+    
+    <section id="contact-me">
+      <h2>Contact Me</h2>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+        <input type="submit" value="Send">
+      </form>
+    </section>
+  </main>
+  
+  <footer>
+    <p>Copyright &copy; 2023</p>
+  </footer>
 </body>
 </html>
