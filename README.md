@@ -49,6 +49,7 @@
       <h2>My Projects</h2>
       <ul>
         <li><a href="https://www.stat.cmu.edu/capstoneresearch/600files/poster1.pdf"> Procedural Evaluation-based Hospital Rating Prediction: A Data-driven Approach </a></li>
+        <h3> <h2> Summary </h2> <br> In our study, we developed a predictive model for hospital ratings using various predictor variables, such as the facility type, rating, and the cost, value, and quality of procedures. We evaluated five classification models and found that Random Forest and XGBoost produced similar results, with XGBoost having slightly lower MCR but similar AUC. Our analysis identified Rating.Safety, Rating.Readmission, and Rating.Experience as the most important features in determining hospital ratings, respectively. These findings align with the notion that the safety of a hospital is a primary concern when comparing hospitals, and hence, it is a crucial factor in our classification model. Interestingly, our results showed that the cost of procedures was comparable between low- and high-rated hospitals, with only hip/knee replacement procedures showing a cost difference of approximately 1.5%. </h3>
         <li><a href="#">Project 2</a></li>
         <li><a href="#">Project 3</a></li>
       </ul>
