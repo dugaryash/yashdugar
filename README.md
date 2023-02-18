@@ -16,6 +16,7 @@
 		img {
 			max-width: 100%;
 			height: auto;
+			margin-right: 20px;
 		}
 		section {
 			padding: 20px;
