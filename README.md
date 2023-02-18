@@ -55,15 +55,17 @@
         <h3> <h2> Summary </h2> The purpose of our study was to develop a loan classification model that can efficiently predict the repayment ability of loan applicants, in order to prevent financial loss for the bank. We first cleaned the dataset and conducted exploratory data analysis and feature engineering, addressing missing values and imbalanced data sets. We proposed four machine learning models - Random Forest, Logistic Regression, Support Vector Machine, and K-Nearest Neighbors - to predict loan repayment, and used both Randomized Search Cross Validation and Grid Search Cross Validation to tune parameters in different situations. Our experiments showed that the random forest model had the highest accuracy and best fit for the dataset, while the logistic regression model with L2 penalty had the highest AUC score. As expected, we found that borrowers with higher annual income and FICO scores were more likely to repay the loan, while those with lower interest rates and smaller installments were also more likely to pay back the loan in full. </h3>
        
         <li><a href="#">Project 3</a></li>
+        
       </ul>
-  </main>
+  
+   </main>
   
    <footer>
     <div>
       <p>Connect with me:</p>
-      <a href="#"><img src="instagram.png" alt="Instagram">Instagram</a>
-      <a href="#"><img src="linkedin.png" alt="LinkedIn">LinkedIn</a>
-      <a href="#"><img src="github.png" alt="GitHub">GitHub</a>
+      <a href="https://www.instagram.com/_yash_dugar"><img src="instagram.png" alt="Instagram">Instagram</a>
+      <a href="https://www.linkedin.com/in/yash-dugar/"><img src="linkedin.png" alt="LinkedIn">LinkedIn</a>
+      <a href="https://github.com/dugaryash"><img src="github.png" alt="GitHub">GitHub</a>
     </div>
     <p>&copy; 2023</p>
   </footer>
