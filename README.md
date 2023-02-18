@@ -15,8 +15,8 @@ theme : minima
 			padding: 10px;
 		}
 		img {
-			max-width: 20px;
-			height: 20px;
+			max-width: 190px;
+			height: auto;
 			margin-right: 20px;
 		}
 		section {
@@ -31,7 +31,7 @@ theme : minima
 </head>
 <body>
 	<header>
-		<h1>My Name</h1>
+		<h1>Yash Dugar</h1>
 		<img src="https://www.cmu.edu/mcs/grad/programs/ms-data-analytics/imgs/2023-msdas-class-photos/dugar-yash.jpg" alt="My Picture">
 	</header>
 
