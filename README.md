@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Personal Website</title>
+  <title>Yash Dugar</title>
   <style>
     /* Style for the navigation bar */
     nav {
