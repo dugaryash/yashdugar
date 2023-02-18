@@ -15,9 +15,9 @@ theme : minima
 			padding: 10px;
 		}
 		img {
-			max-width: 190px;
-			height: auto;
-			margin-right: 20px;
+			max-width: 100px;
+			height: 40px;
+			margin-right: 5px;
 		}
 		section {
 			padding: 20px;
