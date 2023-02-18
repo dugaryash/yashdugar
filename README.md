@@ -56,24 +56,16 @@
        
         <li><a href="#">Project 3</a></li>
       </ul>
-    </section>
-    
-    <section id="contact-me">
-      <h2>Contact Me</h2>
-      <form>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name"><br><br>
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email"><br><br>
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
-        <input type="submit" value="Send">
-      </form>
-    </section>
   </main>
   
-  <footer>
-    <p>Copyright &copy; 2023</p>
+   <footer>
+    <div>
+      <p>Connect with me:</p>
+      <a href="#"><img src="instagram.png" alt="Instagram">Instagram</a>
+      <a href="#"><img src="linkedin.png" alt="LinkedIn">LinkedIn</a>
+      <a href="#"><img src="github.png" alt="GitHub">GitHub</a>
+    </div>
+    <p>&copy; 2023</p>
   </footer>
 </body>
 </html>
