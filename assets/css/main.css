@@ -46,13 +46,11 @@ body {
   display: block;
   padding: 12px;
   border-radius: 50%;
-  background-color: #ccc;
-  color: "red";
   transition: background-color 0.3s ease-in-out;
 }
 
 .button-circle:hover .icon {
-  background-color: #333;
+  background-color: #ccc;
 }
 
 .button-circle .icon {
