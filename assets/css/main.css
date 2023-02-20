@@ -39,7 +39,7 @@ body {
   border: none;
   background-color: transparent;
   border-radius: 50%;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .button-circle .icon {
@@ -47,7 +47,7 @@ body {
   padding: 12px;
   border-radius: 50%;
   background-color: #ccc;
-  color: #fff;
+  color: "red";
   transition: background-color 0.3s ease-in-out;
 }
 
@@ -57,10 +57,6 @@ body {
 
 .button-circle .icon {
   transition: all 0.3s ease-in-out;
-}
-
-.button-circle:hover .icon {
-  transform: rotate(360deg);
 }
 
 
