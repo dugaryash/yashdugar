@@ -39,6 +39,7 @@ body {
   border: none;
   background-color: transparent;
   border-radius: 50%;
+  cursor: pointer
 }
 
 .button-circle .icon {
