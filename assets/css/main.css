@@ -43,6 +43,7 @@ body {
 }
 
 .button-circle .icon {
+  cursor: pointer;
   display: block;
   padding: 12px;
   border-radius: 50%;
@@ -50,10 +51,12 @@ body {
 }
 
 .button-circle:hover .icon {
-  background-color: #ccc;
+  cursor: pointer;
+  background-color: #D3D3D3;
 }
 
 .button-circle .icon {
+  cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
 
